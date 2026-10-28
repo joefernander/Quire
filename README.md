@@ -2,6 +2,10 @@
 
 A PDF workbench that runs entirely in the browser: delete, add, reorder and rotate pages, split scanned book spreads down the gutter, OCR text with Tesseract, and save a searchable PDF.
 
+## LLM Generated
+
+Frustrated by the fact that I have to either endure countless ads or pay for a subscription to make simple edits to a PDF, this app was developed entirely by Claude (with human direction).
+
 ## Run it
 
 Browsers block the page's web workers when it is opened straight from disk, so serve the folder over HTTP:
